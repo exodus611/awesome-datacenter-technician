@@ -12,6 +12,8 @@ An open-source technical reference for technicians, hardware engineers, and cand
 
 ## 📘 Physical Workbook Companion
 
+[![Watch Video Preview](https://img.shields.io/badge/Video%20Preview-1080p%20Trailer-red?style=for-the-badge&logo=youtube)](./datacenter_technician_promo_1080p.mp4)
+
 This repository provides open quick-reference summaries and cheat sheets. If you need physical bench drills with **18 full-length incident simulation labs, authentic BMC/IPMI hex telemetry logs, blank FACTS ticket forms, and complete model answer keys**, check out the official published manual:
 
 👉 **[Data Center Operations Technician Field Workbook & Technical Practice Guide (Amazon ASIN: B0HP9JNGXL)](https://www.amazon.com/dp/B0HP9JNGXL)**  
